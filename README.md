@@ -1,6 +1,6 @@
 ## Hi~ 👋 This is Hansol's Github!
 
-## He is searching great Lab to learn AI, Semiconductor.
+He is searching great Lab to learn AI, Semiconductor.
 
 ## Hansol is...
 - Electric Engineering
@@ -42,6 +42,8 @@
 ## English
 - TOEIC SPEAKING
 - TOEIC
+
+## Already has been in military service...
 
 <!--
 **hansollasido/hansollasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
