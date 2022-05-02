@@ -8,7 +8,6 @@
 - Live in Suwon
 - Interested in AI, Semiconductor
 - 🤔
-- <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 
 ### Hope to enter ...
@@ -17,10 +16,10 @@
 ### He will grow up on and on...
 
 ## He Can do...
-- Python (best)
-- Matlab (best)
-- C++
-- R
+- Python <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (best) 
+- Matlab <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> (best)
+- C++ <a><img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+- R <a><img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"></a>
 
 ## Project
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641)
