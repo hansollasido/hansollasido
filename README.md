@@ -1,5 +1,6 @@
 ## Hi~ 👋 This is Hansol's Github!
 
+## He is searching great Lab to learn AI, Semiconductor.
 
 ## Hansol is...
 - Electric Engineering
