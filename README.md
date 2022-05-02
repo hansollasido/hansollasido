@@ -43,7 +43,6 @@ He is searching great Lab to learn AI, Semiconductor.
 - TOEIC SPEAKING
 - TOEIC
 
-### Already has been in military service...
 
 <!--
 **hansollasido/hansollasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
