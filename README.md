@@ -11,7 +11,7 @@
 
 
 ### Hope to enter ...
-- #1428A0
+- <img src="https://img.shields.io/badge/Samsung-050505?style=flat-square&logo=Samsung&logoColor=white"/>
 
 ### He will grow up on and on...
 
