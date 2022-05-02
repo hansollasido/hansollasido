@@ -8,6 +8,11 @@
 - Live in Suwon
 - Interested in AI, Semiconductor
 - 🤔
+- <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
+
+
+### Hope to enter ...
+- #1428A0
 
 ### He will grow up on and on...
 
@@ -15,6 +20,7 @@
 - Python (best)
 - Matlab (best)
 - C++
+- R
 
 ## Project
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641)
