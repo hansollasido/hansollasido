@@ -10,7 +10,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - 🤔
 
 
-### Hope to enter ...
+### Hope to enter 
 - <img src="https://img.shields.io/badge/Samsung-050505?style=flat-square&logo=Samsung&logoColor=white"/>
 - <img src="https://img.shields.io/badge/LG-ed0707?style=flat-square&logo=LG&logoColor=white"/>
 
