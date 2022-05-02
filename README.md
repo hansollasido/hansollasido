@@ -23,7 +23,12 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white">
 
 ## Project
-- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브 링크 -> [github](https://github.com/hansollasido/Chat_bot)
+- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브[github](https://github.com/hansollasido/Chat_bot)
+- [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), 깃허브[github](https://github.com/hansollasido/penguin)
+
+## Study
+- 아주대학교 학습 공동체, 깃허브[github](https://github.com/hansollasido/X_stal_study)
+- Tave, Kaggle-Study, 깃허브[github](https://github.com/T-aggle/Tave-kaggle-study)
 
 ## Ongoing Project
 - Ajou_AI_X-tal study (아주대학교 학습 공동체)
