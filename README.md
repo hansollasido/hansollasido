@@ -8,7 +8,7 @@
 - Live in Suwon
 - Interested in AI, Semiconductor
 - 🤔
-- <a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/></a> 
+- <a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=#00599C&logoColor=white"/></a> 
 
 
 ### Hope to enter ...
