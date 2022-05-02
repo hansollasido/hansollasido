@@ -23,7 +23,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white">
 
 ## Project
-- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641) [github](https://github.com/hansollasido/Chat_bot)
+- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브 링크 -> [github](https://github.com/hansollasido/Chat_bot)
 
 ## Ongoing Project
 - Ajou_AI_X-tal study (아주대학교 학습 공동체)
