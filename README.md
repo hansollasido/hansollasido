@@ -25,6 +25,7 @@ He is searching great Lab to learn AI, Semiconductor.
 ## Project
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브🌱 [github](https://github.com/hansollasido/Chat_bot)
 - [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/penguin)
+- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/dacon_plant)
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
