@@ -24,6 +24,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 - <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white">
+- <img src="https://img.shields.io/badge/Verilog-3776AB?style=flat-square&logo=R&logoColor=white">
 
 ## Project
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브🌱 [github](https://github.com/hansollasido/Chat_bot)
