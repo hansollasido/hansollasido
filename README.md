@@ -29,7 +29,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브🌱 [github](https://github.com/hansollasido/Chat_bot)
 - [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/penguin)
 - [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/dacon_plant)
-- [수화 이미지 분류 경진대회](https://dacon.io/competitions/official/235896/overview/description)
+- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/Dacon_covid19)
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
@@ -40,10 +40,9 @@ He is searching great Lab to learn AI, Semiconductor.
 - Dacon Project [데이콘 생육환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description)
 
 ## Ongoing Classes
-- 융합캡스톤디자인
-- 인공지능
-- 논리회로
-- 영상신호처리
+- IDEC 반도체 설계 교육
+- 2022 하계 미래자동차분야(전기자동차) 빅데이터 분석실무 자격과정 (R프로그램) 교육
+- 
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
@@ -52,6 +51,7 @@ He is searching great Lab to learn AI, Semiconductor.
 ## English
 - TOEIC SPEAKING
 - TOEIC
+- TEPS
 
 
 <!--
