@@ -9,7 +9,6 @@ He is searching great Lab to learn AI, Semiconductor.
 - Korean age : 25
 - Live in Suwon
 - Interested in AI, Semiconductor
-- VLSI, SoC
 - 🤔
 
 
