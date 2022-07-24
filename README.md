@@ -41,7 +41,6 @@ He is searching great Lab to learn AI, Semiconductor.
 
 ## Ongoing Classes
 - IDEC 반도체 설계 교육
-- 2022 하계 미래자동차분야(전기자동차) 빅데이터 분석실무 자격과정 (R프로그램) 교육
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
