@@ -40,7 +40,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - 파란학기제
 
 ## Verilog 관련 코드
-- IDEC 반도체 설계 교육 깃허브🌱 [github]()
+- IDEC 반도체 설계 교육 깃허브🌱 [github](https://github.com/hansollasido/verilog-FPGA)
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
