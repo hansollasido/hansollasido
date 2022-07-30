@@ -15,6 +15,7 @@ He is searching great Lab to learn AI, Semiconductor.
 ### Hope to enter 
 - <img src="https://img.shields.io/badge/Samsung-050505?style=flat-square&logo=Samsung&logoColor=white"/>
 - <img src="https://img.shields.io/badge/LG-ed0707?style=flat-square&logo=LG&logoColor=white"/>
+- <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logo=LG&logoColor=white"/>
 
 ### He will grow up on and on...
 
