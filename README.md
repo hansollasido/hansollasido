@@ -1,5 +1,5 @@
 <div align="center">
-<p size="7"> 
+<p size="10"> 
 Hi~ 👋 This is Hansol's Github!
   </p>
 He is searching great Lab to learn AI, Semiconductor.
