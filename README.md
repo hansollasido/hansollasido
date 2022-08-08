@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" size="7">
 <p size="10"> 
 Hi~ 👋 This is Hansol's Github!
   </p>
