@@ -4,26 +4,18 @@ He is searching great Lab to learn AI, Semiconductor.
 
 [My Notion profile](https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73)
 
-## Hansol is...
-- Electric Engineering
-- Korean age : 25
-- Live in Suwon
-- Interested in AI, Semiconductor
-- 🤔
+--- 
 
-
+<!--
 ### Hope to enter 
 - <img src="https://img.shields.io/badge/Samsung-050505?style=flat-square&logo=Samsung&logoColor=white"/>
 - <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logoColor=white"/>
-
-### He will grow up on and on...
+-->
 
 ## He Can do...
-- <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> 
-- <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-- <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white">
-- <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
+
+---
 
 ## Project
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브🌱 [github](https://github.com/hansollasido/Chat_bot)
