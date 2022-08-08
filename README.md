@@ -15,8 +15,10 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logoColor=white"/>
 -->
 
-### What I can do
+
 <div align="center">
+  
+What I can do
 <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
 </div>
 
