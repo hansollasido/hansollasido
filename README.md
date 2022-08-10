@@ -28,7 +28,7 @@ He is searching great Lab to learn AI, Semiconductor.
 - [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
 - [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
 - 국민대 자율주행자동차 경진대회
-- 파란학기제
+- 파란학기제(기업연계 과제)
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
