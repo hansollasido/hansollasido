@@ -16,7 +16,7 @@ He is searching great Lab to learn AI, Semiconductor.
 ## Language & Tool
 <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
 
-<img src="https://img.shields.io/badge/Pspice-112fd9?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pspice-1122d9?style=flat-square&logoColor=white"/>
 
 
 
