@@ -12,7 +12,6 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logoColor=white"/>
 -->
 
----
   
 ## Language
 - <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> 
@@ -22,10 +21,10 @@ He is searching great Lab to learn AI, Semiconductor.
 - <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
 
 
----
+
 
 ## Project
-- **[융합캡스톤 디자인 프로젝트 및 기본 베릴로그 코드]**[깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
+- **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [깃허브🌱] (https://github.com/hansollasido/Chat_bot)
 - [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), [깃허브🌱](https://github.com/hansollasido/penguin)
 - [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
