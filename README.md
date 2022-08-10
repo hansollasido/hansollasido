@@ -14,7 +14,7 @@ He is searching great Lab to learn AI, Semiconductor.
 
 ---
   
-## What I can do
+## Language
 - <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> 
 - <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
@@ -25,25 +25,22 @@ He is searching great Lab to learn AI, Semiconductor.
 ---
 
 ## Project
-- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), 깃허브🌱 [github](https://github.com/hansollasido/Chat_bot)
-- [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/penguin)
-- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/dacon_plant)
-- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), 깃허브🌱 [github](https://github.com/hansollasido/Dacon_covid19)
+- **[융합캡스톤 디자인 프로젝트 및 기본 베릴로그 코드]**[깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
+- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [깃허브🌱] (https://github.com/hansollasido/Chat_bot)
+- [펭귄 몸무게 예측 대회](https://dacon.io/competitions/official/235862/overview/description), [깃허브🌱](https://github.com/hansollasido/penguin)
+- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
+- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
+- 국민대 자율주행자동차 경진대회
+- 파란학기제
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
 - Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle/Tave-kaggle-study)
 
-## Ongoing Project
-- 국민대 자율주행자동차 경진대회
-- 파란학기제
-
-## Verilog 관련 코드
-- IDEC 반도체 설계 교육 깃허브🌱 [github](https://github.com/hansollasido/verilog-FPGA)
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
-- Tave 8기, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
+- Tave 8기 회원, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
 
 ## English
 - TOEIC SPEAKING
