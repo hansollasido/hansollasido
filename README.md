@@ -24,7 +24,7 @@ He is searching great Lab to learn AI, Semiconductor.
 ## Project
 - **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
 - [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [깃허브🌱](https://github.com/hansollasido/Chat_bot)
-- [DACON basic 대회](https://dacon.io/competitions/official/235862/overview/description), [깃허브🌱](https://github.com/hansollasido/penguin)
+- [DACON basic 대회](https://dacon.io/), [깃허브🌱](https://github.com/hansollasido/dacon_basic)
 - [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
 - [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
 - 국민대 자율주행자동차 경진대회
