@@ -32,7 +32,7 @@
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
-- Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle/Tave-kaggle-study)
+- Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle)
 
 
 ## Group
