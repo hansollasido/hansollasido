@@ -30,6 +30,7 @@
 - [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
 - [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
 - 파란학기제(기업연계 과제)
+- AWS deepracer (AI 자동차 경진대회)
 
 ## Achieve
 - 국민대 자율주행자동차 경진대회 우수상 
