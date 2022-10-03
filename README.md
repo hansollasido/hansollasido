@@ -47,7 +47,6 @@
 ## English
 - TOEIC SPEAKING
 - TOEIC
-- TEPS
 
 
 <!--
