@@ -3,9 +3,9 @@
 
 ⚡AI, Semiconductor⚡
 
-[gitblog](https://hansollasido.github.io/)
+[Gitblog](https://hansollasido.github.io/)
 
-[My Notion profile](https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73)
+[My Notion Profile](https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73)
 
 
 <!--
