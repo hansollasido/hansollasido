@@ -3,6 +3,8 @@
 
 ⚡AI, Semiconductor⚡
 
+[Lab](https://sites.google.com/view/idealab400525/home/)
+
 [Gitblog](https://hansollasido.github.io/)
 
 [My Notion Profile](https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73)
