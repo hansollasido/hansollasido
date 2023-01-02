@@ -34,6 +34,9 @@
 
 ## Achieve
 - 국민대 자율주행자동차 경진대회 우수상 
+- 파란학기제 황금뱃사공상(일등상)
+- 산학박람회 우수상
+- AWS deepracer 대회 최우수상
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
