@@ -7,7 +7,7 @@
 
 [Gitblog](https://hansollasido.github.io/)
 
-[My Notion Profile](https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73)
+[My Notion Profile]([https://guttural-file-f46.notion.site/Hansol-s-Profile-48f43ef45e1e4d89a412ac6d00c98c73](https://thoracic-asiago-663.notion.site/Hansol-Kim-e552b0f2ac4a489188d45e5ca1e634df))
 
 
 <!--
