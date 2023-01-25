@@ -1,7 +1,7 @@
 
 <!-- # Hi~ 👋 This is Hansol's Github!
  -->
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50&textBg=true)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50&textBg=true)
  
  ## Introduction
  
@@ -15,7 +15,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
  
 ⚡AI, Semiconductor⚡
 
-[Lab](https://sites.google.com/view/idealab400525/home/)
+[<img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Facebook&logoColor=white"/>](https://sites.google.com/view/idealab400525/home/)
 
 [Gitblog](https://hansollasido.github.io/)
 
