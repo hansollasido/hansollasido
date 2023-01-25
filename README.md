@@ -15,7 +15,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
  
 ⚡AI, Semiconductor⚡
 
-[<img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Facebook&logoColor=white"/>](https://sites.google.com/view/idealab400525/home/)
+[<img src="https://img.shields.io/badge/Facebook-1e51f7?style=flat-square&logo=Facebook&logoColor=white"/>](https://sites.google.com/view/idealab400525/home/)
 
 [Gitblog](https://hansollasido.github.io/)
 
