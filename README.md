@@ -19,7 +19,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 [<img src="https://img.shields.io/badge/Gitblog-000000?style=flat-square&logo=Github&logoColor=white"/>](https://hansollasido.github.io/)
 
-[<img src="https://img.shields.io/badge/Notion-d6d6d6?style=flat-square&logo=Notion&logoColor=white"/>](https://thoracic-asiago-663.notion.site/Hansol-Kim-e552b0f2ac4a489188d45e5ca1e634df)
+[<img src="https://img.shields.io/badge/Notion-424242?style=flat-square&logo=Notion&logoColor=white"/>](https://thoracic-asiago-663.notion.site/Hansol-Kim-e552b0f2ac4a489188d45e5ca1e634df)
 
 
 <!--
