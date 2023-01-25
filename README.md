@@ -18,7 +18,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 ## Contact
 <a href="mailto:johnkims2@g.skku.edu"><img src="https://img.shields.io/badge/Gmail-f72020?style=flat-square&logo=Gmail&logoColor=white"/></img></a>
-<a href="mailto:johnkims2@g.skku.edu"><img src="https://img.shields.io/badge/Naver-039620?style=flat-square&logo=Naver&logoColor=white"/></img></a>
+<a href="mailto:johnkims2@naver.com"><img src="https://img.shields.io/badge/Naver-039620?style=flat-square&logo=Naver&logoColor=white"/></img></a>
 
 <!--
 ### Hope to enter 
