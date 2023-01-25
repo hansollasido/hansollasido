@@ -48,6 +48,7 @@
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
 - Tave 8기 회원, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
+- All-In 👯 아주대학교 인공지능융합학과 소학회
 
 ## English
 - TOEIC SPEAKING
