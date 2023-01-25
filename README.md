@@ -1,7 +1,7 @@
 
 <!-- # Hi~ 👋 This is Hansol's Github!
  -->
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=150&section=header&text=%20Hansol%20Github%20~👋&fontSize=50&textBg=true)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=100&section=header&text=%20Hansol%20Github%20~👋&fontSize=50&textBg=true)
  
 ⚡AI, Semiconductor⚡
 
