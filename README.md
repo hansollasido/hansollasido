@@ -1,7 +1,7 @@
 
 <!-- # Hi~ 👋 This is Hansol's Github!
  -->
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=300&section=header&text=capsule%20render&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=200&section=header&text=capsule%20render&fontSize=70)
  
 ⚡AI, Semiconductor⚡
 
