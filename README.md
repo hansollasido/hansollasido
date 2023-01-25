@@ -54,6 +54,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
 - Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle)
 - python 강의, 깃허브 🌱 [github](https://github.com/hansollasido/python_study)
+- All-In 스터디, 깃허브 🌱 [github](https://github.com/dhcryan/kaggle_challenge_)
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
