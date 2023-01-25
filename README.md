@@ -1,8 +1,9 @@
 
 <!-- # Hi~ 👋 This is Hansol's Github!
+&color=auto
 &textBg=true
  -->
- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50)
 
 ## Introduction
 
