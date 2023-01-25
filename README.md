@@ -15,11 +15,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
  
 ⚡AI, Semiconductor⚡
 
-[<img src="https://img.shields.io/badge/Facebook-1e51f7?style=flat-square&logo=Facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100024496358612)
-
-[<img src="https://img.shields.io/badge/Gitblog-000000?style=flat-square&logo=Github&logoColor=white"/>](https://hansollasido.github.io/)
-
-[<img src="https://img.shields.io/badge/Notion-424242?style=flat-square&logo=Notion&logoColor=white"/>](https://thoracic-asiago-663.notion.site/Hansol-Kim-e552b0f2ac4a489188d45e5ca1e634df)
+[<img src="https://img.shields.io/badge/Facebook-1e51f7?style=flat-square&logo=Facebook&logoColor=white"/>](https://www.facebook.com/profile.php?id=100024496358612)[<img src="https://img.shields.io/badge/Gitblog-000000?style=flat-square&logo=Github&logoColor=white"/>](https://hansollasido.github.io/)[<img src="https://img.shields.io/badge/Notion-424242?style=flat-square&logo=Notion&logoColor=white"/>](https://thoracic-asiago-663.notion.site/Hansol-Kim-e552b0f2ac4a489188d45e5ca1e634df)
 
 
 <!--
