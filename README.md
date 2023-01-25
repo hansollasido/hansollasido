@@ -3,6 +3,16 @@
  -->
  ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&animation=scaleIn&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50&textBg=true)
  
+ ## Introduction
+ 
+Hi, I’m Hansol Kim, still B.S. student in Ajou University and I’m going to be M.S. student in SKKU University. My Major is Electric Engineering in Ajou, and Artificial Intelligence in SKKU. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
+
+My research interest primarily lies in the intersection of semi-conductor and AI.
+
+If you have any questions, please contact **johnkims2@g.skku.edu**
+
+
+ 
 ⚡AI, Semiconductor⚡
 
 [Lab](https://sites.google.com/view/idealab400525/home/)
