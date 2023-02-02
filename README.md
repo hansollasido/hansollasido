@@ -36,8 +36,9 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 <img src="https://img.shields.io/badge/Pspice-42f563?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-f58142?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-f5e642?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/modelsim-8d42f5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/vivado-349167?style=flat-square&logoColor=white"/> 
 
-
-
+## Teaching
+- Signal and System, advised by YoungGil Kim
+- Digital System, advised by TaeHee Han
 
 ## Project
 - **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
