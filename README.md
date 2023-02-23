@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/101409953/214646958-0336efea-90e2-4e72-a136-e728ec1fbcf7.png" width="80" height="100" />
 
 ⚡AI, Semiconductor⚡
-Hi, I’m Hansol Kim, still B.S. student in Ajou University and I’m going to be M.S. student in SKKU University. My Major is Electric Engineering in Ajou, and Artificial Intelligence in SKKU. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
+Hi, I’m Hansol Kim, B.S. student in Ajou University and M.S. student in SKKU University. My Major is Electric and Computer Engineering in Ajou, and Artificial Intelligence in SKKU. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
 
 My research interest primarily lies in the intersection of semi-conductor and AI.
 
