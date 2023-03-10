@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/101409953/214646958-0336efea-90e2-4e72-a136-e728ec1fbcf7.png" width="80" height="100" />
 
 ⚡AI, Semiconductor⚡
-Hi, I’m Hansol Kim, B.S. student in Ajou University and M.S. student in SKKU University. My Major is Electric and Computer Engineering in Ajou, and Artificial Intelligence in SKKU. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
+Hi, I’m Hansol Kim, stil M.S. student in SKKU University. My Major is Artificial Intelligence. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
 
 My research interest primarily lies in the intersection of semi-conductor and AI.
 
@@ -35,6 +35,10 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
 
 <img src="https://img.shields.io/badge/Pspice-42f563?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-f58142?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-f5e642?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/modelsim-8d42f5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/vivado-349167?style=flat-square&logoColor=white"/> 
+
+## Education
+- **B.S.** Electric Engineering, Ajou University _(Mar 2017 ~ Feb 2023)_
+- **M.S.** Artificial Intelligence, SungKyunKwan University _(Feb 2023 ~ )_
 
 ## Teaching
 - **Signal and System**, YoungGil Kim
