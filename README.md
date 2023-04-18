@@ -68,12 +68,13 @@ You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
 - Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle)
 - python 강의, 깃허브 🌱 [github](https://github.com/hansollasido/python_study)
-- All-In 스터디, 깃허브 🌱 [github](https://github.com/dhcryan/kaggle_challenge_)
+- Nuovo 스터디, 깃허브 🌱 [github](https://github.com/dhcryan/kaggle_challenge_)
+- Nuovo 콜로키운 논문 스터디 📫 [gitblog](https://hansollasido.github.io/categories/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84/)
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
 - Tave 8기 회원, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
-- All-In 👯 아주대학교 인공지능융합학과 소학회
+- Nuovo 👯 아주대학교 인공지능융합학과 소학회
 
 ## English
 - TOEIC SPEAKING
