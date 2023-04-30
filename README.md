@@ -18,7 +18,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 ## Gitblog
 
-You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
+You can see many updated things on my [📫Gitblog](https://hansollasido.github.io/)
 
 
 ## Education
