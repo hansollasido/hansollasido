@@ -49,25 +49,6 @@ You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 - [파란학기제(기업연계 과제)](https://hansollasido.github.io/categories3/paran/)
 - AWS deepracer (자율주행 경진대회)
 
-## Achieve
-- 국민대 자율주행자동차 경진대회 우수상 
-- 파란학기제 황금뱃사공상(일등상)
-- 산학박람회 우수상
-- AWS deepracer 대회 최우수상
-
-## Language & Tool
-<img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pspice-42f563?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-f58142?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-f5e642?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/modelsim-8d42f5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/vivado-349167?style=flat-square&logoColor=white"/> 
-
-## Education
-- **B.S.** Electric Engineering, Ajou University _(Mar 2017 ~ Feb 2023)_
-- **M.S.** Artificial Intelligence, SungKyunKwan University _(Feb 2023 ~ )_
-
-## Teaching
-- **Signal and System**, YoungGil Kim
-- **Digital System**, TaeHee Han
-
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
 - Tave, Kaggle-Study, 깃허브🌱 [github](https://github.com/T-aggle)
@@ -75,14 +56,26 @@ You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 - Nuovo 스터디, 깃허브 🌱 [github](https://github.com/dhcryan/kaggle_challenge_)
 - Nuovo 콜로키운 논문 스터디 📫 [gitblog](https://hansollasido.github.io/categories/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84/)
 
+## Achieve
+- 국민대 자율주행자동차 경진대회 우수상 
+- 파란학기제 황금뱃사공상(일등상)
+- 산학박람회 우수상
+- AWS deepracer 대회 최우수상
+<!-- 
+## Language & Tool
+<img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
+
+<img src="https://img.shields.io/badge/Pspice-42f563?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-f58142?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-f5e642?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/modelsim-8d42f5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/vivado-349167?style=flat-square&logoColor=white"/> 
+ -->
+
+## Teaching
+- **Signal and System**, YoungGil Kim
+- **Digital System**, TaeHee Han
+
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
 - Tave 8기 회원, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
 - Nuovo 👯 아주대학교 인공지능융합학과 소학회
-
-## English
-- TOEIC SPEAKING
-- TOEIC
 
 
 <!--
