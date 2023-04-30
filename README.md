@@ -12,7 +12,7 @@
 ⚡AI, Semiconductor⚡
 Hi, I’m Hansol Kim, stil M.S. student in SKKU University. My Major is Artificial Intelligence. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
 
-My research interest primarily lies in the intersection of semi-conductor and AI.
+My research interest primarily lies in the intersection of semi-conductor and AI(Expecially Computer Vision).
 
 If you have any questions, please contact **johnkims2@g.skku.edu**
 
@@ -20,6 +20,10 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 
+
+## Education
+- **B.S.** Electric Engineering, Ajou University _(Mar 2017 ~ Feb 2023)_
+- **M.S.** Artificial Intelligence, SungKyunKwan University _(Feb 2023 ~ )_
 
 ## Link
  
@@ -35,7 +39,22 @@ You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 - <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logoColor=white"/>
 -->
 
-  
+## Project
+- **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
+- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [깃허브🌱](https://github.com/hansollasido/Chat_bot)
+- [DACON basic 대회](https://dacon.io/), [깃허브🌱](https://github.com/hansollasido/dacon_basic)
+- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
+- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
+- [제4회 2023 연구개발 특구 AI SPARK 챌린지- 공기압축기 이상 판단](https://aifactory.space/competition/data/2226)[깃허브🌱](https://github.com/hansollasido/AI_SPARK_CONTEST_air_compressor)
+- [파란학기제(기업연계 과제)](https://hansollasido.github.io/categories3/paran/)
+- AWS deepracer (자율주행 경진대회)
+
+## Achieve
+- 국민대 자율주행자동차 경진대회 우수상 
+- 파란학기제 황금뱃사공상(일등상)
+- 산학박람회 우수상
+- AWS deepracer 대회 최우수상
+
 ## Language & Tool
 <img src="https://img.shields.io/badge/Python-112fd9?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Matlab-d62d1e?style=flat-square&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-4d640?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/Verilog-BD170B?style=flat-square&logoColor=white">
 
@@ -48,21 +67,6 @@ You can see many updated things on my [Gitblog](https://hansollasido.github.io/)
 ## Teaching
 - **Signal and System**, YoungGil Kim
 - **Digital System**, TaeHee Han
-
-## Project
-- **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [깃허브🌱](https://github.com/hansollasido/verilog-FPGA)
-- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [깃허브🌱](https://github.com/hansollasido/Chat_bot)
-- [DACON basic 대회](https://dacon.io/), [깃허브🌱](https://github.com/hansollasido/dacon_basic)
-- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [깃허브🌱](https://github.com/hansollasido/dacon_plant)
-- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [깃허브🌱](https://github.com/hansollasido/Dacon_covid19)
-- 파란학기제(기업연계 과제)
-- AWS deepracer (AI 자동차 경진대회)
-
-## Achieve
-- 국민대 자율주행자동차 경진대회 우수상 
-- 파란학기제 황금뱃사공상(일등상)
-- 산학박람회 우수상
-- AWS deepracer 대회 최우수상
 
 ## Study
 - 아주대학교 학습 공동체, 깃허브🌱 [github](https://github.com/hansollasido/X_stal_study)
