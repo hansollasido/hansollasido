@@ -48,14 +48,19 @@ You can see many updated things on my [📫Gitblog](https://hansollasido.github.
 - Nuovo 콜로키운 논문 스터디, [📫gitblog](https://hansollasido.github.io/categories/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84/)
 
 ## AI Contest
-- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [🌱깃허브](https://github.com/hansollasido/Chat_bot)
-- [DACON basic 대회](https://dacon.io/), [🌱깃허브](https://github.com/hansollasido/dacon_basic)
-- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [🌱깃허브](https://github.com/hansollasido/dacon_plant)
-- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [🌱깃허브](https://github.com/hansollasido/Dacon_covid19)
 - [제4회 2023 연구개발 특구 AI SPARK 챌린지- 공기압축기 이상 판단](https://aifactory.space/competition/data/2226), [🌱깃허브](https://github.com/hansollasido/AI_SPARK_CONTEST_air_compressor)
 - [파란학기제(기업연계 과제)](https://hansollasido.github.io/categories3/paran/)
 - [AWS deepracer (자율주행 경진대회)](https://hansollasido.github.io/categories4/contest/)
 - [국민대 자율주행자동차 대회](https://hansollasido.github.io/categories4/contest2/)
+- [월간 데이콘 TV 손동작 제어 인식 AI 경진대회](https://dacon.io/competitions/official/236050/leaderboard), [🌱깃허브]
+
+---
+
+- [ICT 융합 프로젝트 공모전](https://www.all-con.co.kr/view/contest/474641), [🌱깃허브](https://github.com/hansollasido/Chat_bot)
+- [DACON basic 대회](https://dacon.io/), [🌱깃허브](https://github.com/hansollasido/dacon_basic)
+- [생육 환경 최적화 경진대회](https://dacon.io/competitions/official/235897/overview/description), [🌱깃허브](https://github.com/hansollasido/dacon_plant)
+- [음향 데이터 COVID-19 검출 AI 경진대회](https://dacon.io/competitions/official/235910/overview/description), [🌱깃허브](https://github.com/hansollasido/Dacon_covid19)
+
 
 ## Achieve
 - 국민대 자율주행자동차 경진대회 우수상, [💬뉴스](https://coss.kookmin.ac.kr/fvedu/community/photo.do?mode=view&articleNo=5900096&article.offset=30&articleLimit=10)
