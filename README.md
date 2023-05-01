@@ -52,7 +52,7 @@ You can see many updated things on my [📫Gitblog](https://hansollasido.github.
 - [파란학기제(기업연계 과제)](https://hansollasido.github.io/categories3/paran/)
 - [AWS deepracer (자율주행 경진대회)](https://hansollasido.github.io/categories4/contest/)
 - [국민대 자율주행자동차 대회](https://hansollasido.github.io/categories4/contest2/)
-- [월간 데이콘 TV 손동작 제어 인식 AI 경진대회](https://dacon.io/competitions/official/236050/leaderboard), [🌱깃허브]
+- [월간 데이콘 TV 손동작 제어 인식 AI 경진대회](https://dacon.io/competitions/official/236050/leaderboard), [🌱깃허브](https://github.com/ai-xstal/hand_control_contest)
 
 ---
 
