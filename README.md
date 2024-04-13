@@ -12,13 +12,9 @@
 ⚡AI, Semiconductor⚡
 Hi, I’m Hansol Kim, stil M.S. student in SKKU University. My Major is Artificial Intelligence. I’m advised by Taehee Han & [IDEA.L](https://sites.google.com/view/idealab400525/home/)
 
-My research interest primarily lies in the intersection of semi-conductor and AI(Expecially Computer Vision).
+My research interest primarily lies in the intersection of semi-conductor and AI(Currently, NLP & Mixture of Experts).
 
 If you have any questions, please contact **johnkims2@g.skku.edu**
-
-## Gitblog
-
-You can see many updated things on my [📫Gitblog](https://hansollasido.github.io/)
 
 
 ## Education
@@ -77,7 +73,8 @@ You can see many updated things on my [📫Gitblog](https://hansollasido.github.
 
 ## Teaching
 - **Signal and System**, YoungGil Kim
-- **Digital System**, TaeHee Han
+- **Digital System (2023, 2024)**, TaeHee Han
+- **Computer Architecture**, TaeHee Han
 
 ## Group
 - X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
