@@ -38,7 +38,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 ## Paper Accepted
 - [Anchor-NDP: An importance-based prefix KV management framework for CXL-enabled NDP](https://www.sciencedirect.com/science/article/pii/S1383762126003747?via%3Dihub)
-  **[SCI-Q1]** Journal of Systems Architecture 
+  **[SCI-Q1, IF: 5.3]** Journal of Systems Architecture 
 
 ## Achieve
 - 국민대 자율주행자동차 경진대회 우수상, [💬뉴스](https://coss.kookmin.ac.kr/fvedu/community/photo.do?mode=view&articleNo=5900096&article.offset=30&articleLimit=10)
