@@ -36,14 +36,6 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 - <img src="https://img.shields.io/badge/SK하이닉스-ed0707?style=flat-square&logoColor=white"/>
 -->
 
-## Project & Study
-- **융합캡스톤 디자인 프로젝트 및 기본 베릴로그** [🌱깃허브](https://github.com/hansollasido/verilog-FPGA)
-- 아주대학교 학습 공동체, [🌱깃허브](https://github.com/hansollasido/X_stal_study)
-- Tave, Kaggle-Study, [🌱깃허브](https://github.com/T-aggle)
-- python 강의, [🌱깃허브](https://github.com/hansollasido/python_study)
-- Nuovo 스터디, [🌱깃허브](https://github.com/dhcryan/kaggle_challenge_)
-- Nuovo 콜로키운 논문 스터디, [📫gitblog](https://hansollasido.github.io/categories/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84/)
-
 ## Paper Accepted
 - Anchor-NDP: An importance-based prefix KV management framework for CXL-enabled NDP (Journal of Systems Architecture) [📚논문 링크](https://www.sciencedirect.com/science/article/pii/S1383762126003747?via%3Dihub)
 
