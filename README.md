@@ -45,7 +45,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 - Nuovo 콜로키운 논문 스터디, [📫gitblog](https://hansollasido.github.io/categories/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%B9%84%EC%A0%84/)
 
 ## Paper Accepted
-- Anchor-NDP: An importance-based prefix KV management framework for CXL-enabled NDP (Journal of Systems Architecture)[https://www.sciencedirect.com/science/article/pii/S1383762126003747?via%3Dihub]
+- Anchor-NDP: An importance-based prefix KV management framework for CXL-enabled NDP (Journal of Systems Architecture) [📚논문 링크](https://www.sciencedirect.com/science/article/pii/S1383762126003747?via%3Dihub)
 
 ## Achieve
 - 국민대 자율주행자동차 경진대회 우수상, [💬뉴스](https://coss.kookmin.ac.kr/fvedu/community/photo.do?mode=view&articleNo=5900096&article.offset=30&articleLimit=10)
