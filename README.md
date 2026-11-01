@@ -19,7 +19,7 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 
 ## Education
 - **B.S.** Electric Engineering, Ajou University _(Mar 2017 ~ Feb 2023)_
-- **M.S./Ph.D. (Combined Program)** Artificial Intelligence, Sungkyunkwan University (Mar 2023 ~ Present)
+- **M.S./Ph.D.** Artificial Intelligence, Sungkyunkwan University (Mar 2023 ~ Present)
 
 ## Link
  
