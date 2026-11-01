@@ -12,7 +12,7 @@
 ⚡AI, Semiconductor⚡
 Hi, I’m Hansol Kim, a Ph.D. student (combined M.S./Ph.D. program) in Artificial Intelligence at Sungkyunkwan University (SKKU), advised by Prof. Taehee Han at [IDEA.L](https://idealab.skku.edu/)
 
-My research interest primarily lies in the intersection of semi-conductor and AI(Currently, NLP & Mixture of Experts).
+My research interests lie at the intersection of memory systems and LLM inference, with a focus on the KV cache loading bottleneck across memory tiers.
 
 If you have any questions, please contact **johnkims2@g.skku.edu**
 
