@@ -1,12 +1,3 @@
-
-<!--
-<!-- # Hi~ 👋 This is Hansol's Github!
-&color=auto
-&textBg=true
- -->
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&section=header&text=%20Hansol%20Github%20~👋&fontSize=50)
--->
-
 ## Introduction
 
 <img src="https://user-images.githubusercontent.com/101409953/214646958-0336efea-90e2-4e72-a136-e728ec1fbcf7.png" width="80" height="100" />
