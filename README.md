@@ -72,17 +72,6 @@ If you have any questions, please contact **johnkims2@g.skku.edu**
 <img src="https://img.shields.io/badge/Pspice-42f563?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LTspice-f58142?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-f5e642?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/modelsim-8d42f5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/vivado-349167?style=flat-square&logoColor=white"/> 
  -->
 
-## Teaching
-- **Signal and System**, YoungGil Kim
-- **Digital System (2023, 2024)**, TaeHee Han
-- **Computer Architecture**, TaeHee Han
-
-## Group
-- X-stal⚡ [아주대학교 인공지능, 임베디드 소학회](https://www.youtube.com/channel/UCyWvti9qQ77U5NDiSND_X2g)
-- Tave 8기 회원, Tave 9기 운영진😄 [인공지능 연합동아리](https://www.instagram.com/tave_wave/?hl=en)
-- Nuovo 👯 아주대학교 인공지능융합학과 소학회
-
-
 <!--
 **hansollasido/hansollasido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
